@@ -1,4 +1,4 @@
-[[source]]
+pip[[source]]
 name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 requests = "*"
+bs4 = "*"
 
 [requires]
 python_version = "3.7"
