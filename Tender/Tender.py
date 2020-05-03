@@ -5,3 +5,4 @@ class Tender:
                  title: Optional[str] = None,
                  milage: Optional[int] = None):
         self.title = title
+        self.milage = milage
